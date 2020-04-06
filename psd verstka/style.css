@@ -1,0 +1,35 @@
+.nav-link{
+    color: white;
+    transition: 0.25s;
+}
+.nav-link:hover{
+    color: #c7b299;
+}
+.carousel-item{
+    height: 90vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.navbar-brand{
+    font-size: 34px;
+    color: white;
+    transition: 0.25s;
+}
+.navbar-brand:hover{
+    color: #c7b299;
+}
+.w-100{
+    height: 100vh;
+    background-size: cover;
+}
+.carousel-caption{
+    padding-bottom: 250px;
+    text-transform: uppercase;
+   
+}
+
+
+.navbar-collapse{
+    padding: 25px 12px;
+}
